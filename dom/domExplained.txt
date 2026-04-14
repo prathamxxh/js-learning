@@ -1,0 +1,5 @@
+1.DOM: Documents object model
+2.It is used to make the web page dynamic
+3.Means we can fetch or select elements in the web pages and change it acccording to the 
+requirements viq DOM
+4.It converts the pages into a tree structure and through which we can select elements
